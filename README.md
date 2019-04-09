@@ -6,6 +6,7 @@ and couynting fibonacci's
 ---
 in java
 ---
-hope you enjoy
+hope you will enjoy
 ---
 thank you
+---
