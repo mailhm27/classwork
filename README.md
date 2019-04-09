@@ -1,10 +1,10 @@
 # classwork
 ---
-code for sum of odds
+java code for
 ---
-and couynting fibonacci's
+sum of odds
 ---
-in java
+plus counting fibonacci's
 ---
 hope you will enjoy
 ---
